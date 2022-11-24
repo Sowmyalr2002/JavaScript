@@ -1,0 +1,11 @@
+<!doctype html>
+<html>
+<body>
+<script>
+const n=5;
+for(let i=1;i<=n;i++) {
+    document.write("loop ");
+}
+</script>
+</body>
+</html>
