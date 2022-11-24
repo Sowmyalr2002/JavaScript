@@ -2,10 +2,10 @@
 <html>
 <body>
 <script>
-  var a=10,b=20,temp;
-  temp=a;
-  a=b;
-  b=temp;
+  var a=10,b=20;
+  a=a+b;
+  b=a-b;
+  a=a-b;
  document.write(a+" "+b);
 </script>
 </body>
