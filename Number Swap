@@ -1,12 +1,6 @@
-<!doctype html>
-<html>
-<body>
-<script>
-  var a=10,b=20;
-  a=a+b;
-  b=a-b;
-  a=a-b;
- document.write(a+" "+b);
-</script>
-</body>
-</html>
+var a=10,b=20;
+a=a+b;
+b=a-b;
+a=a-b;
+document.write(a+" "+b);
+
